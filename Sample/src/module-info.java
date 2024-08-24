@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yoges
+ *
+ */
+module Sample {
+}
